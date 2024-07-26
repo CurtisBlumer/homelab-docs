@@ -29,4 +29,4 @@ The remaining space will be used later for an LVM-thinpool or Ceph.
 
 ## Configuration
 
-Next we will add {{ page.apt-proxy-url }} to cache apt packages.
+Next we will add {{ site.apt-proxy-url }} to cache apt packages.
