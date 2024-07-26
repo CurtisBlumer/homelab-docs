@@ -6,7 +6,6 @@ categories:
   - proxmox
 tags:
   - config
-apt-proxy: http://apt-proxy.svcs.hjem.cloud:3128
 ---
 
 This page will describe how to get started with Proxmox.

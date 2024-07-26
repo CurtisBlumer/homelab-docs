@@ -1,9 +1,5 @@
 theme: jekyll-theme-minimal
 title: Homelab Docs
 description: Proxmox cluster documenation
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      apt-proxy-url: http://apt-proxy.server.hjem.cloud:3128
+
+apt-proxy-url: http://apt-proxy.server.hjem.cloud:3128
