@@ -6,6 +6,7 @@ categories:
   - proxmox
 tags:
   - config
+apt-proxy-url: http://apt-proxy.server.hjem.cloud:3128
 ---
 
 This page will describe how to get started with Proxmox.
@@ -28,4 +29,4 @@ The remaining space will be used later for an LVM-thinpool or Ceph.
 
 ## Configuration
 
-Next we will add `{{ site.apt-proxy-url }}` to cache apt packages.
+Next we will add {{ page.apt-proxy-url }} to cache apt packages.
