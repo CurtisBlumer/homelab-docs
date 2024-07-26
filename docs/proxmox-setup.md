@@ -9,7 +9,9 @@ tags:
 apt-proxy: http://apt-proxy.svcs.hjem.cloud:3128
 ---
 
-# Proxmox Setup
+This page will describe how to get started with Proxmox.
+
+These steps will need to be taken on each server.
 
 ## Installation
 
